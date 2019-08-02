@@ -10,7 +10,7 @@
     
     <groupId>com.pragmaticobjects.oo.equivalence</groupId>
     <artifactId>oo-equivalence</artifactId>
-    <version>0.0.0-SNAPSHOT</version>
+    <version>0.0.0</version>
     <packaging>pom</packaging>
     <modules>
         <module>equivalence-base</module>
